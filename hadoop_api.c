@@ -3,6 +3,7 @@
 
 int a,b,c;
 
+/////////First Api////////////////
 void init() {
   a=0;
   b=0;
