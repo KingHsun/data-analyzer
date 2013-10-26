@@ -1,24 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int *fetchData() {
-  int *data;
-  // fetch data...
-  return data;
-}
-
-void processData(int data[]) {
-  // process data...
-  // improve process algorithm
-}
-
-void showData(int data[]) {
-  // print data...
+////////DataRequest api/////////////
+void DataRequest(int whichcase) {
+  case(whichcase)
+	case 1:
+		{}
+	case 2:
+		{}
 }
 
 int main () {
-  int *data = fetchData();
-  processData(data);
-  showData(data);
+  
   return 0;
 }
