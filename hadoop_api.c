@@ -11,8 +11,14 @@ void init() {
   // initial
 }
 
+///////Second Api//////////////////
+void process(){
+	a=a+b+c;
+	// process
+}
+
 int main () {
   init();
-
+  process();
   return 0;
 }
