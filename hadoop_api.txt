@@ -1,0 +1,8 @@
+/////first api/////
+init()
+
+/////second api///
+process()
+
+////third api/////
+show()
