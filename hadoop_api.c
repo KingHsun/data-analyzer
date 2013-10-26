@@ -17,8 +17,14 @@ void process(){
 	// process
 }
 
+///////Third Api//////////////////
+void show(){
+	//print
+}
+
 int main () {
   init();
   process();
+  show();
   return 0;
 }
