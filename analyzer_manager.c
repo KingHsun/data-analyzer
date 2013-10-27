@@ -5,6 +5,7 @@
 void manage()
 {
 	//////manage//////
+	//////second//////
 }
 
 int main()
